@@ -1,0 +1,45 @@
+{
+    "name": "Today's News Application",
+    "short_name": "Today's News",
+    "theme_color": "#2195f3",
+    "background_color": "rgba(9,7,3,0.89)",
+    "display": "standalone",
+    "start_url": ".",
+    "icons": [
+        {
+            "src":"icons/T72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src":"icons/T96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src":"icons/T128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src":"icons/T144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src":"icons/T152.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src":"icons/T192.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src":"icons/T512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+  }
